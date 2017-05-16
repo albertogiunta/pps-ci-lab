@@ -2,4 +2,4 @@ build/
 .gradle/
 build/
 .idea/
-pps-ci-lab.iml
+*.iml
